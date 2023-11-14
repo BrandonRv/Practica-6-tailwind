@@ -1,5 +1,7 @@
 # Practica-6-tailwind
 
+- url: https://brandonrv.github.io/Practica-6-tailwind/
+
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
